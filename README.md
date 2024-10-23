@@ -298,4 +298,24 @@ in the last line of code we are exportig this module by placing the function nam
 and we can acces the modules by passing the module names in curly braces and passing the specifi path of the file ./demoModule in the require 
 and we get the output accordingly
 
+express JS
+![image](https://github.com/user-attachments/assets/023adbf8-454c-42e2-8884-9630ae2f8b77)
+lets start by installation 
+first we have to create a file and i've named as express js 
+![image](https://github.com/user-attachments/assets/7ce43fd4-0c88-48b7-bd7b-ae57d6f99518)
 
+open the file and in the path type cmd and enter you will see like this 
+![image](https://github.com/user-attachments/assets/10c0d362-50f8-4739-b63d-811c72a04fc2)
+now type npm init command in the cmd it will create a node envorniment 
+![image](https://github.com/user-attachments/assets/f8244164-7824-4123-8f66-acd0f7be9f46)
+and i was not entered any data i just simpley enter all the cridentials at end i entered y
+![image](https://github.com/user-attachments/assets/c5e4d648-cb70-458a-b298-e1815f06b48e)
+now you can see thet in your file a package is created 
+![image](https://github.com/user-attachments/assets/91c9fccb-e803-4cec-ab69-9711cee6446d)
+
+when you open this package in your VS code you can see the details of your project 
+![image](https://github.com/user-attachments/assets/fab9d338-22ac-4274-b6b5-3b0244ab10ce)
+
+now you can create a app.js file in the folder 
+and in the app.js file write some randome code to saw output 
+![image](https://github.com/user-attachments/assets/e705f388-7f8d-4296-9da5-5e60b9d7a5fc)
