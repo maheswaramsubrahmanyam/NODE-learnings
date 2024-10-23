@@ -236,6 +236,19 @@ fs.writeFile('fileName','encoder',function)
 
 
 
+if we want to create a content in the file in dynamic way its possible by writeFile method 
+syntax 
+fs.writeFile('fileName' , contentSample , function)
+
+the file before content crested dynamically 
+![image](https://github.com/user-attachments/assets/6c40e42d-7393-4c28-889b-a4e6990ec095)
+
+code 
+![image](https://github.com/user-attachments/assets/7cdb815c-27e8-43d3-a64b-59474db05dec)
+
+the dynamic content in the webpage 
+![image](https://github.com/user-attachments/assets/3daa065c-ad9b-452f-bd6d-e3a4e609c3ea)
+
 
 
 
