@@ -352,4 +352,5 @@ it will ask yes no enter y
 you will seen like this
 ![image](https://github.com/user-attachments/assets/dd5e64ed-e8b0-4ff1-963a-dbae545fecc8)
 
-
+again if you want to start use this command which is 
+npm start
