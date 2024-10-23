@@ -203,4 +203,23 @@ console.log(path.__dirname(__filename))
 node sample
 C:\Users\mahes\OneDrive\Desktop\Node learning
 
+![image](https://github.com/user-attachments/assets/10eccaec-9da7-4ef8-8271-d175513c8c4f)
 
+![image](https://github.com/user-attachments/assets/f8f9a380-eb7f-464e-b5b6-8c645076c6db)
+
+FS function 
+const fs = require('fs')
+
+fs.readFile("demo.txt", 'utf8',(err,data)=>{
+    if(err){
+        console.log(err)
+    }
+    console.log(data)
+})
+
+in the above code we have to creat a demo txt file and reading through fs.readFile function 
+syntx for fs.readFile("txtfileName" , 'encoder' , function)
+
+output 
+ node index
+hello everyone this is maheswaram subrahmanyam learining nodejs
