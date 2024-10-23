@@ -269,3 +269,22 @@ output
 
 
 
+HTTP module 
+![image](https://github.com/user-attachments/assets/fd3570ac-eff3-4bda-91e6-07180db85b31)
+![image](https://github.com/user-attachments/assets/fda4b3a1-7c2d-432b-bee8-c8f8282b6ebc)
+![image](https://github.com/user-attachments/assets/f0820f37-d837-4366-aebe-9cb2ba38486a)
+![image](https://github.com/user-attachments/assets/d64c7d08-87f3-43d8-b1fc-1e4b3a27a3f5)
+
+creating a server using http menthos
+![image](https://github.com/user-attachments/assets/0f6abe6e-f02e-41c7-b90c-759fa016358a)
+explination of the code 
+we are creating a http varbale by require of http
+and created another varible for server port which is myserver varable in that varable i have been created a server with request and response arguments by using arrow function in thet we retrive the server info by response.write and after fecing the server we have to stop the surver and it was done by the response.end() method
+
+after this function we have to create the port for accesing in clint side 
+so we choose the port number as 5300 
+by feching the localhost:5300 in browser we connet to the server 
+![image](https://github.com/user-attachments/assets/1796256a-358e-4efe-a43a-8f7989283c39)
+
+
+
