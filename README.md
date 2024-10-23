@@ -223,3 +223,14 @@ syntx for fs.readFile("txtfileName" , 'encoder' , function)
 output 
  node index
 hello everyone this is maheswaram subrahmanyam learining nodejs
+
+
+if in case if we do not place encoder it returns the buffer code 
+
+
+
+
+
+
+
+
