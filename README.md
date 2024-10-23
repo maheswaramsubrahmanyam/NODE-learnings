@@ -228,6 +228,11 @@ hello everyone this is maheswaram subrahmanyam learining nodejs
 if in case if we do not place encoder it returns the buffer code 
 
 
+if we want  to create a file by using writeFile method 
+syntax 
+fs.writeFile('fileName','encoder',function)
+
+![image](https://github.com/user-attachments/assets/0bef0778-a2e5-4b11-99ec-696042c58720)
 
 
 
