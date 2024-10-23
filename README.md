@@ -250,5 +250,22 @@ the dynamic content in the webpage
 ![image](https://github.com/user-attachments/assets/3daa065c-ad9b-452f-bd6d-e3a4e609c3ea)
 
 
+if you want to changet the file name dynamically we use rename function
+syntax 
+fs.rename('old file name' , 'new file name' , function)
+
+![image](https://github.com/user-attachments/assets/3c728c09-345d-4e2d-8219-d421d70ce91f)
+output
+![image](https://github.com/user-attachments/assets/9a68dc6e-6af9-4a2f-9673-fe6286b9a5af)
+
+
+if you want to delet a file dynamically we use unlink function
+syntax 
+fs.unlink('file name',function)
+![image](https://github.com/user-attachments/assets/fbc81898-dfa6-4075-84c8-6aff1d9e9c28)
+output 
+![image](https://github.com/user-attachments/assets/484680c5-4c92-4845-b351-fe997383b681)
+
+
 
 
