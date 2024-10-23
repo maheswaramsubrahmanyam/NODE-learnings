@@ -319,3 +319,37 @@ when you open this package in your VS code you can see the details of your proje
 now you can create a app.js file in the folder 
 and in the app.js file write some randome code to saw output 
 ![image](https://github.com/user-attachments/assets/e705f388-7f8d-4296-9da5-5e60b9d7a5fc)
+
+you have to update code in regulara interavls and save and run by node app every time for seeing the output right 
+so the altration for this problem is that you can install the thirdpart packages called npm 
+installation process 
+![image](https://github.com/user-attachments/assets/f3e9383a-b990-40da-890c-21fa39cfd170)
+open the website and in the search bar you can search for nodemon 
+![image](https://github.com/user-attachments/assets/df151e04-7146-4fa4-b72b-fde9955642c4)
+coply the command npm i nodemon
+and past it in your terminal 
+![image](https://github.com/user-attachments/assets/0307ec3d-8508-4d35-abbd-47752169e5bd)
+sucussfully installed nodemon with 0 errors 
+![image](https://github.com/user-attachments/assets/adffc4c0-437d-4718-8f58-687ed70dbe92)
+you can verify the installation is succesfull done or not by verifying the package 
+in the package the nodemon will be displayed if not you are not folloing the correct process
+![image](https://github.com/user-attachments/assets/b89277e0-a331-47a5-bd7e-1c8b7fb387f8)
+now you have to do some simple process to connet the app.js file with our package to see the changes directly in the ternimal 
+the process is pretty simple 
+you have to open the package and create a key "start" and value as "nodemon app.js" 
+"start:"nodemon app.js"
+![image](https://github.com/user-attachments/assets/b80270fd-b0ad-4946-af31-70d609c264b6)
+
+the next step is that you have to start the file 
+in terminal you have to enter npm start
+and it will start excuting the app.js file automatically 
+![image](https://github.com/user-attachments/assets/3f4cd4e7-a110-4751-a31a-0cbae0e94bfc)
+now test by changing the console.log() value 
+![image](https://github.com/user-attachments/assets/6074a43a-c1ec-4c80-af73-b53fdf8f3ebe)
+if you want to stop this application or terminal you have to do this 
+ctrl + c 
+it will ask yes no enter y 
+you will seen like this
+![image](https://github.com/user-attachments/assets/dd5e64ed-e8b0-4ff1-963a-dbae545fecc8)
+
+
