@@ -113,9 +113,75 @@ Windows 11 Home Single Language
     model: '13th Gen Intel(R) Core(TM) i7-1360P',
     speed: 2611,
     times: { user: 145906, nice: 0, sys: 153140, idle: 21941984, irq: 13421 }
+
+
+
+
+__dirname 
+__filename
+
+
+console.log(__dirname)
+
+console.log(__filename)
+
+node sample.js
+C:\Users\mahes\OneDrive\Desktop\Node learning
+C:\Users\mahes\OneDrive\Desktop\Node learning\sample.js
+
   }
 ]
 PS C:\Users\mahes\OneDrive\Desktop\Node learning>
 
 
+const os = require('os')
+const path = require('path')
+// console.log(os.type())
+// console.log(os.version())
+// console.log(os.freemem())
+// console.log(os.cpus())
 
+console.log(__dirname)
+
+console.log(__filename)
+console.log(path)
+
+
+node sample
+C:\Users\mahes\OneDrive\Desktop\Node learning
+C:\Users\mahes\OneDrive\Desktop\Node learning\sample.js
+<ref *1> {
+  resolve: [Function: resolve],
+  normalize: [Function: normalize],
+  isAbsolute: [Function: isAbsolute],
+  join: [Function: join],
+  relative: [Function: relative],
+  toNamespacedPath: [Function: toNamespacedPath],
+  dirname: [Function: dirname],
+  basename: [Function: basename],
+  extname: [Function: extname],
+  format: [Function: bound _format],
+  parse: [Function: parse],
+  sep: '\\',
+  delimiter: ';',
+  win32: [Circular *1],
+  posix: <ref *2> {
+    resolve: [Function: resolve],
+    normalize: [Function: normalize],
+    isAbsolute: [Function: isAbsolute],
+    join: [Function: join],
+    relative: [Function: relative],
+    toNamespacedPath: [Function: toNamespacedPath],
+    dirname: [Function: dirname],
+    basename: [Function: basename],
+    extname: [Function: extname],
+    format: [Function: bound _format],
+    parse: [Function: parse],
+    sep: '/',
+    delimiter: ':',
+    win32: [Circular *1],
+    posix: [Circular *2],
+    _makeLong: [Function: toNamespacedPath]
+  },
+  _makeLong: [Function: toNamespacedPath]
+}
