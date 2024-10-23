@@ -18,6 +18,7 @@ OS
 PATH
 FS
 HTTP
+![image](https://github.com/user-attachments/assets/c327cb64-922a-486d-a49a-1183cf622e43)
 
 MODULE IMPORTING SYNTAX 
 
@@ -286,5 +287,15 @@ so we choose the port number as 5300
 by feching the localhost:5300 in browser we connet to the server 
 ![image](https://github.com/user-attachments/assets/1796256a-358e-4efe-a43a-8f7989283c39)
 
+local modules 
+![image](https://github.com/user-attachments/assets/70ecf2f8-9379-4253-8653-eb97f9328b23)
+
+we can create module and use in another files
+![image](https://github.com/user-attachments/assets/71270281-6547-4165-926a-12aa07af2ad8)
+in the above code we seen that we create 4 module which is four functions 
+in the last line of code we are exportig this module by placing the function name in curly braces by the method module.export 
+![image](https://github.com/user-attachments/assets/e5772b94-c5da-496d-b9b7-9d1862d078ba)
+and we can acces the modules by passing the module names in curly braces and passing the specifi path of the file ./demoModule in the require 
+and we get the output accordingly
 
 
