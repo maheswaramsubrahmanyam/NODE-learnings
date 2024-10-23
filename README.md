@@ -185,3 +185,22 @@ C:\Users\mahes\OneDrive\Desktop\Node learning\sample.js
   },
   _makeLong: [Function: toNamespacedPath]
 }
+
+
+const os = require('os')
+const path = require('path')
+// console.log(os.type())
+// console.log(os.version())
+// console.log(os.freemem())
+// console.log(os.cpus())
+
+// console.log(__dirname)
+
+// console.log(__filename)
+// console.log(path)
+console.log(path.__dirname(__filename))
+
+node sample
+C:\Users\mahes\OneDrive\Desktop\Node learning
+
+
