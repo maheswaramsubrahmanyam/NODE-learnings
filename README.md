@@ -419,6 +419,7 @@ lets change the router by about and see what happens
 you can see that in network 
 you will observe that status was cancled/ pending this is what happens when the conditions are not satsfyed 
 
+![image](https://github.com/user-attachments/assets/52388694-839f-4fcc-839a-d403850d380d)
 
 
 
