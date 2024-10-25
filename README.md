@@ -421,8 +421,13 @@ you will observe that status was cancled/ pending this is what happens when the 
 
 ![image](https://github.com/user-attachments/assets/52388694-839f-4fcc-839a-d403850d380d)
 
+if you want to apply the middleware conditions for specific functions 
+you can modify the code by storing the middleware conditions in a varible and passing it to the specific router 
 
+let's see practically 
+![image](https://github.com/user-attachments/assets/9fbf2a7f-eb1c-4ed4-bafc-a4a371983d18)
 
+![image](https://github.com/user-attachments/assets/9acff3e9-d7cd-46e8-b962-b61ee06f64c3)
 
 
 
