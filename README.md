@@ -370,7 +370,9 @@ creating a webserver using express js
 ![image](https://github.com/user-attachments/assets/f8ec2373-077a-40ab-b960-4f610e82c5b3)
 
 
+![image](https://github.com/user-attachments/assets/9e945958-7087-46e6-9975-93a61ab0f881)
 
+![image](https://github.com/user-attachments/assets/147abac1-3086-4184-b3e5-316ac5612306)
 
 
 
