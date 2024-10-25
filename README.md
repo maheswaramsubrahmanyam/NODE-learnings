@@ -375,9 +375,57 @@ creating a webserver using express js
 
 ![image](https://github.com/user-attachments/assets/147abac1-3086-4184-b3e5-316ac5612306)
 
+
+
 MiddleWare consept 
+
 ![image](https://github.com/user-attachments/assets/a0a12db1-c71b-4d3f-a85c-fbda2ee06a78)
 
 ![image](https://github.com/user-attachments/assets/d197afae-0122-4fc4-af6f-b7d57eb919bf)
 ![image](https://github.com/user-attachments/assets/a3838a5c-b5d0-4b1d-8a3b-d197ae9cab39)
 ![image](https://github.com/user-attachments/assets/3602e568-b4d9-4c8d-8b32-72faa1962aaa)
+
+
+let's see what is middlewares, how to regestration & how to use Middlewares
+
+middleware is a function that extends form the express js
+
+
+app.use()
+
+use method takes three arguments  use((req,res,next))
+
+using the use() method we can mentions some conditions to load/response from the server
+if the conditions satsfys then only the router will get the acces iof server to load information 
+if not the its buffers the site 
+![image](https://github.com/user-attachments/assets/a4ead5b0-c5ea-49ce-b128-3aeb4bbf5faf)
+
+In the above code 
+we use middleware by using use() method to pass the conditions 
+output will be like this 
+
+the condition 10<20 is true so it will get the server and shows the output corrspondingly 
+
+let's make condition fales and see what happends
+![image](https://github.com/user-attachments/assets/7e2f5a91-f888-4427-bf05-b19d372e4e74)
+
+in the above if condiction was false 10>20 so now see the routers 
+
+present we are in home page 
+![image](https://github.com/user-attachments/assets/62f939cd-8d0b-4807-99c5-ca864f16b869)
+lets change the router by about and see what happens
+ its is browsing like this beacouse conditions are unsatsfyed 
+ ![image](https://github.com/user-attachments/assets/5478ba84-2b85-45e9-b301-1a472708b583)
+you can see that in network 
+you will observe that status was cancled/ pending this is what happens when the conditions are not satsfyed 
+
+
+
+
+
+
+
+
+
+
+
