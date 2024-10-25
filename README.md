@@ -370,9 +370,14 @@ creating a webserver using express js
 ![image](https://github.com/user-attachments/assets/f8ec2373-077a-40ab-b960-4f610e82c5b3)
 
 
+
 ![image](https://github.com/user-attachments/assets/9e945958-7087-46e6-9975-93a61ab0f881)
 
 ![image](https://github.com/user-attachments/assets/147abac1-3086-4184-b3e5-316ac5612306)
 
+MiddleWare consept 
+![image](https://github.com/user-attachments/assets/a0a12db1-c71b-4d3f-a85c-fbda2ee06a78)
 
-
+![image](https://github.com/user-attachments/assets/d197afae-0122-4fc4-af6f-b7d57eb919bf)
+![image](https://github.com/user-attachments/assets/a3838a5c-b5d0-4b1d-8a3b-d197ae9cab39)
+![image](https://github.com/user-attachments/assets/3602e568-b4d9-4c8d-8b32-72faa1962aaa)
