@@ -430,7 +430,11 @@ let's see practically
 ![image](https://github.com/user-attachments/assets/9acff3e9-d7cd-46e8-b962-b61ee06f64c3)
 
 
+![image](https://github.com/user-attachments/assets/40739306-8bd2-4242-97ce-e6f674d0cdfc)
 
+
+![image](https://github.com/user-attachments/assets/25274169-b7f9-4a20-84a8-509b8e56a262)
+![image](https://github.com/user-attachments/assets/7b25a29e-d720-45eb-8bab-b207a8556e0a)
 
 
 
